@@ -12,7 +12,7 @@ Remote Boot Script for TPLINK TL-ER604W
       )
       ---
 
-Save it, to your desktop as : TL-ER604W_reboot.ps1
+2. Save it, to your desktop as : TL-ER604W_reboot.ps1
 
   <img width="128" height="103" alt="image" src="https://github.com/user-attachments/assets/46dbe801-73ef-4844-adb3-8ca78179c78b" />
 
